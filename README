@@ -1,0 +1,10 @@
+3 Estados de git
+
+- confirmado (commit) -------- datos quedaron almacenados
+- modificado (modified) ------- archivos modificados pero aun sin confirmado
+- preparado (staged) ------- archivo modificado esta pendiente de confirmacion
+
+
+A ----- archivo es rastrable (seguimiento) --------
+M ----- modificacion
+?? -------- no tiene seguimiento
